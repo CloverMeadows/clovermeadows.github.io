@@ -1,17 +1,17 @@
 # site settings
-title: Forty
+title: Clover Meadows Targhees
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+email: mhellwinkel@clovermeadows.org
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/"
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+city: Sheridan
+state: MT
+zip_code: 59749
 country: United States of America
-phone: (716) 555-5555
+phone: (406) 842-5235
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
