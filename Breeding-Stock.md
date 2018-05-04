@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Purebred Breeding Stock
+nav-menu: true
 description: National Sheep Improvement Program
 image: assets/images/pic02.jpg
 ---
