@@ -12,8 +12,8 @@
         </article>
 	{% endif %}
 	{% endfor %}
-	{% for page in site.pages limit:site.tiles-count %}
-	{% if site.tiles-source == 'pages' %}
+	{% for page in site.pages limit:site.tiles-count%}
+	{% if site.tiles-source == 'pages' and page.title != 'Home' %}
         <article>
                 <span class="image">
                         <img src="{{ page.image }}" alt="" />

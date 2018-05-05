@@ -3,7 +3,7 @@ title: Clover Meadows Targhees
 subtitle:
 email: mhellwinkel@clovermeadows.org
 description:
-baseurl: /
+baseurl:
 url: https://clovermeadows.github.io
 author: mhellwinkel
 street_address:
@@ -15,7 +15,7 @@ phone: (406) 842-5235
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 2
 
 # social settings
 500px_url:
