@@ -1,9 +1,13 @@
 ---
 layout: post
 title: About Us
-landing-title: About Us
 nav-menu: true
-description: Clover Meadows Ranch is located just outside of Sheridan, Montana - In the "Heart of the Ruby Valley".
+description: |
+    Clover Meadows Ranch is located just outside of Sheridan, Montana - In the "Heart of the Ruby Valley".
+    <br/>
+    <ul class="actions">
+        <li><a href="order.html" class="button next">Order Now</a></li>
+    </ul>
 image: assets/images/baldy.jpg
 ---
 

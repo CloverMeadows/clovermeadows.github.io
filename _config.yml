@@ -1,7 +1,7 @@
 # site settings
 title: Clover Meadows Targhees
 subtitle:
-email: mhellwinkel@clovermeadows.org
+email: matthellwinkel@gmail.com
 description:
 baseurl:
 url: https://clovermeadows.github.io
@@ -14,8 +14,8 @@ country: United States of America
 phone: (406) 842-5235
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 2
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 4
 
 # social settings
 500px_url:
