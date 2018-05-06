@@ -15,12 +15,14 @@
         {% for page in site.pages %}
 		    {% if page.layout == "home" %}
 		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
-	    	{% endif %}
+			{% else if page.layout != "home" and page.nav-menu == true %}
+				<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+			{% endif %}
 		{% endfor %}
-		{% for page in site.pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
+		{% for post in site.posts %}
+			{% if post.nav-menu == true %}
+				<li><a href="{{ post.url | absolute_url }}">{{ post.title}}</a></li>
+			{% endif %}
 		{% endfor %}
 	</ul>
 </nav>
