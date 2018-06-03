@@ -4,14 +4,14 @@ subtitle:
 email: matthellwinkel@gmail.com
 description:
 baseurl:
-url: https://clovermeadows.github.io
+url: http://clovermeadowsmt.org
 author: mhellwinkel
-street_address:
+street_address: 3424 Hwy 287
 city: Sheridan
 state: MT
 zip_code: 59749
 country: United States of America
-phone: (406) 842-5235
+phone: (406) 596-0668
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
