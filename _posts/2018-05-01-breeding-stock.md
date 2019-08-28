@@ -4,6 +4,7 @@ title: Purebred Breeding Stock
 nav-menu: true
 description: National Sheep Improvement Program
 image: assets/images/cm-babies.jpg
+image_header: true
 ---
 
 Our ewes lamb in late March to early May. We wean at 120 days. Lambs are grass-fed with some supplemental grains.

@@ -6,6 +6,7 @@ description: |
     The western range industry has long demanded a breed of sheep, thick in natural fleshing, producing
     high quality apparel type of wool, and adapted to rugged conditions.
 image: assets/images/baldy.jpg
+image_header: true
 ---
 
 The western range industry has long demanded a breed of sheep, thick in natural fleshing, producing high quality apparel

@@ -9,6 +9,7 @@ description: |
         <li><a href="order.html" class="button next">Order Now</a></li>
     </ul>
 image: assets/images/targhee_flag_min.jpg
+image_header: true
 ---
 
 Clover Meadows Ranch was originally established by the William Rhodes family in the early 1900's.  It was operated
