@@ -8,7 +8,7 @@ description: |
     <ul class="actions">
         <li><a href="order.html" class="button next">Order Now</a></li>
     </ul>
-image: assets/images/targhee_flag_min.jpg
+image: assets/images/ewes/IMG_1789.JPG
 image_header: true
 ---
 
