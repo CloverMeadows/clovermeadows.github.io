@@ -16,6 +16,8 @@ phone: (406) 596-0668
 collections:
   rams:
     output: true
+  ewes:
+    output: true
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
